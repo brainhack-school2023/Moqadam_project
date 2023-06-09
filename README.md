@@ -42,7 +42,7 @@ This project aims to explore and compare the functional connectivity patterns in
 ![Dep](outputs/Dep.png)
 ![Plot](outputs/plot.png)
 ![View](outputs/view.png)
-![Connection by Group](outputs/conn by group.png)
+![Connection by Group](outputs/conn%20by%20group.png)
 ![LM](outputs/lm.png)
 ![Mixed](outputs/mixed.png)
 

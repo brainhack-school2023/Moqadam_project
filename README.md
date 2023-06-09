@@ -117,7 +117,6 @@ In summary, the mixed effects linear regression model showed limited success in 
 - fMRIPrep for rs-fMRI preprocessing
 - Python Packages: matplotlib, seaborn, nilearn, plotly, Nibabel, scipy, Pandas
 - Git and Github for Version Control
--
 
 ## List to do
 

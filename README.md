@@ -1,26 +1,26 @@
-# Moqadam_project
+﻿# Moqadam_project
 
-<<<<<<< HEAD
+<<<<<<< 
 <a href="https://github.com/moqroq">
    <img src="https://avatars.githubusercontent.com/u/122383501?s=400&u=05796ff256ac58bd02476c922fdfc54ccf7f7ca4&v=4" width="100px;" alt=""/>
    <br /><sub><b>Roqa Moqa</b></sub>
 </a> 
 
-Hi, I am Roqa, from UdeM hub, PhD student at University de Montreal in biomedical sciences.
-I am working on neurodegenerative diseases including Parkinson's. 
+
 
 =======
 
 
 
-<a href="https://github.com/moqroq">
-   
-   <img src="https://avatars.githubusercontent.com/u/122383501?s=400&u=05796ff256ac58bd02476c922fdfc54ccf7f7ca4&v=4" width="100px;" alt=""/>
-   <br /><sub><b>Roqa Moqa</b></sub>
+
 
 </a> Project definition
+
 ABOUT ME
-I am a PhD student at University of Montreal studying in biomedical science. My research interests are on neurodegenerative diseases and their effects on individuals. Throughout my master's program, I specialized in medical imaging, which provided me with knowledge of diagnostic and imaging techniques utilized in the field. However, for my PhD, I need to familiarize myself with the state-of-the-art data science packages.
+
+Hi, I am Roqa, from UdeM hub, PhD student at University de Montreal in biomedical sciences.
+My research interests are on neurodegenerative diseases and their effects on individuals. Throughout my master's program, I specialized in medical imaging, which provided me with knowledge of diagnostic and imaging techniques utilized in the field. However, for my PhD, I need to familiarize myself with the state-of-the-art data science packages.
+
 Project Summary
 
 My project aims to elucidate and compare the distinct functional connectivity patterns between individuals with Parkinson's disease and neuropsychiatric symptoms (PD+NPS) and those without the condition, using resting-state fMRI connectivity matrices.

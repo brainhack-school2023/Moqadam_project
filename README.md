@@ -114,9 +114,18 @@ In summary, the mixed effects linear regression model showed limited success in 
 
 - Jupyter notebook for coding and visualization
 - Docker container
-
 - fMRIPrep for rs-fMRI preprocessing
 - Python Packages: matplotlib, seaborn, nilearn, plotly, Nibabel, scipy, Pandas
 - Git and Github for Version Control
-- Docker container
+-
 
+## List to do
+
+    Accessing Big Data:
+        PPMI - Parkinson's Progression Markers Initiative
+
+    Running fmriprep on NIAGARA
+
+    Learning the Statistical Part of My Project
+
+    Becoming More Familiar with Machine Learning

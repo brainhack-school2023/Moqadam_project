@@ -16,16 +16,16 @@
 
 </a> Project definition
 
-ABOUT ME
+#ABOUT ME
 
 Hi, I am Roqa, from UdeM hub, PhD student at University de Montreal in biomedical sciences.
 My research interests are on neurodegenerative diseases and their effects on individuals. Throughout my master's program, I specialized in medical imaging, which provided me with knowledge of diagnostic and imaging techniques utilized in the field. However, for my PhD, I need to familiarize myself with the state-of-the-art data science packages.
 
-Project Summary
+#Project Summary
 
 My project aims to elucidate and compare the distinct functional connectivity patterns between individuals with Parkinson's disease and neuropsychiatric symptoms (PD+NPS) and those without the condition, using resting-state fMRI connectivity matrices.
 
-Specific objectives include:
+##Specific objectives include:
 
 Characterizing the functional connectivity alterations in individuals with PD+NPS by examining the connectivity matrix derived from resting-state fMRI data.
 Identifying and mapping disrupted functional brain networks associated with PD+NPS and investigating their potential relevance to motor and neuropsychiatric symptomatology.

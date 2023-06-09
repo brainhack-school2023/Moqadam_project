@@ -1,4 +1,4 @@
-﻿# Moqadam_project
+﻿<h1>Moqadam_project</h1>
 
 <<<<<<< 
 <a href="https://github.com/moqroq">
@@ -16,7 +16,7 @@
 
 </a> Project definition
 
-#ABOUT ME
+<h1>ABOUT ME<h1>
 
 Hi, I am Roqa, from UdeM hub, PhD student at University de Montreal in biomedical sciences.
 My research interests are on neurodegenerative diseases and their effects on individuals. Throughout my master's program, I specialized in medical imaging, which provided me with knowledge of diagnostic and imaging techniques utilized in the field. However, for my PhD, I need to familiarize myself with the state-of-the-art data science packages.

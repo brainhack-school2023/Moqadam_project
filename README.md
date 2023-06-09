@@ -3,8 +3,6 @@
    <br /><sub><b>Roqa Moqa</b></sub>
 </a> 
 
-Hi, I am Roqa, from UdeM hub, PhD student at University de Montreal in biomedical sciences.
-I am working on neurodegenerative diseases including Parkinson's.
 
 
 # Project Definition
@@ -40,10 +38,10 @@ This project aims to explore and compare the functional connectivity patterns in
 ![Connection by Group](outputs/conn by group.png)
 ![Connections with Dependencies](outputs/connectionsdep.png)
 ![Connections](outputs/connections.png)
+![Non-Dependencies](outputs/nonDep.png)
 ![Dep](outputs/Dep.png)
 ![LM](outputs/lm.png)
 ![Mixed](outputs/mixed.png)
-![Non-Dependencies](outputs/nonDep.png)
 ![Plot](outputs/plot.png)
 ![View](outputs/view.png)
 

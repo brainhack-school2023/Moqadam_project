@@ -35,7 +35,6 @@ This project aims to explore and compare the functional connectivity patterns in
 
 ## Result
 ![Plot](Results/connections.png)
-![Plot](Results/connectionsdep.png)
 
 ## Tools
 

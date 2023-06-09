@@ -34,7 +34,19 @@ My project aims to elucidate and compare the distinct functional connectivity pa
 This project aims to explore and compare the functional connectivity patterns in individuals with Parkinson's disease (PD) and neuropsychiatric symptoms (NPS) to those without the condition, utilizing resting-state functional magnetic resonance imaging (rs-fMRI) connectivity matrices. By examining the connectivity matrix derived from rs-fMRI data, we aim to identify potential alterations in functional brain networks associated with both PD and NPS, shedding light on the relationship between these conditions. The findings from this study may contribute to a better understanding of the underlying neural mechanisms and inform future research and clinical interventions.
 
 ## Result
-1
+
+## Output Images
+
+![Connection by Group](outputs/conn by group.png)
+![Connections with Dependencies](outputs/connectionsdep.png)
+![Connections](outputs/connections.png)
+![Dep](outputs/Dep.png)
+![LM](outputs/lm.png)
+![Mixed](outputs/mixed.png)
+![Non-Dependencies](outputs/nonDep.png)
+![Plot](outputs/plot.png)
+![View](outputs/view.png)
+
 ## Tools
 
 - Jupyter notebook for coding and visualization

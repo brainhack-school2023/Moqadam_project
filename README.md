@@ -35,15 +35,16 @@ This project aims to explore and compare the functional connectivity patterns in
 
 ## Output Images
 
-![Connection by Group](outputs/conn by group.png)
+
 ![Connections with Dependencies](outputs/connectionsdep.png)
 ![Connections](outputs/connections.png)
 ![Non-Dependencies](outputs/nonDep.png)
 ![Dep](outputs/Dep.png)
-![LM](outputs/lm.png)
-![Mixed](outputs/mixed.png)
 ![Plot](outputs/plot.png)
 ![View](outputs/view.png)
+![Connection by Group](outputs/conn by group.png)
+![LM](outputs/lm.png)
+![Mixed](outputs/mixed.png)
 
 ## Tools
 

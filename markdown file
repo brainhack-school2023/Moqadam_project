@@ -1,0 +1,11 @@
+Background:
+  Parkinson's disease (PD) is a neurodegenerative disorder characterized by motor symptoms such as tremors and bradykinesia. However, a significant number of individuals with PD also experience neuropsychiatric symptoms (NPS), including depression, anxiety, and cognitive impairment. Understanding the underlying neural mechanisms of PD+NPS is crucial for improving diagnosis, treatment, and patient outcomes.
+
+Objectives:
+  The objective of this project is to investigate and compare the functional connectivity patterns in individuals with PD+NPS and those without the condition. By analyzing resting-state functional magnetic resonance imaging (rs-fMRI) data, the study aims to achieve the following objectives:
+  Characterize the functional connectivity alterations in individuals with PD+NPS by examining the connectivity matrix derived from rs-fMRI data.
+  Identify and map disrupted functional brain networks associated with PD+NPS and investigate their potential relevance to motor and neuropsychiatric symptomatology.
+  Compare the functional connectivity patterns between individuals with PD+NPS and healthy controls to delineate specific network alterations unique to the PD+NPS population.
+
+Motivation
+  The motivation behind this project is to gain a deeper understanding of the neural basis of PD+NPS, which can help improve early detection, develop targeted interventions, and enhance the overall management of individuals with PD. By elucidating the distinct functional connectivity patterns in PD+NPS, the project aims to contribute to the field of neuroimaging research and provide valuable insights for future clinical interventions and treatment strategies.
